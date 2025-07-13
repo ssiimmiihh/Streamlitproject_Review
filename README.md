@@ -8,7 +8,6 @@
 
 ---
 </p>
-<p align="center">
   <img src="https://img.shields.io/badge/Built%20with-Streamlit-orange?style=flat&logo=streamlit" alt="Streamlit Badge"/>
   <img src="https://img.shields.io/badge/AI-OpenAI%20GPT-blue?logo=openai" alt="OpenAI Badge"/>
 </p>
