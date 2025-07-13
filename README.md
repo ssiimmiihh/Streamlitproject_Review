@@ -1,7 +1,11 @@
 # 📍 Naver Blog 제품 리뷰 분석 코파일럿
 
-<h4 align="center">네이버 블로그에서 특정 제품에 대한 리뷰를 수집하고, 
-  광고성 콘텐츠를 필터링한 후 실제 사용자 중심의 긍정/부정 의견을 ChatGPT를 통해 분석하는 서비스입니다.</h4>
+st.markdown("""
+<div style="text-align: center; font-size: 20px; font-weight: normal;">
+네이버 블로그에서 특정 제품에 대한 리뷰를 수집하고,<br>
+광고성 콘텐츠를 필터링한 후 실제 사용자 중심의 긍정/부정 의견을 ChatGPT를 통해 분석하는 서비스입니다.
+</div>
+""", unsafe_allow_html=True)
 
 </p>
 </p>
