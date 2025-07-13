@@ -7,14 +7,13 @@
 </p>
 
 
-</p>
+---
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-Streamlit-orange?style=flat&logo=streamlit" alt="Streamlit Badge"/>
   <img src="https://img.shields.io/badge/AI-OpenAI%20GPT-blue?logo=openai" alt="OpenAI Badge"/>
 </p>
 
----
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/12285e2a-bcde-4c7a-b9d8-bce536fd45c9" />
 
