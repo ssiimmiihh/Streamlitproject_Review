@@ -22,7 +22,7 @@
 
 ## 🚀 배포 링크
 
-👉 [Streamlit Cloud 앱 바로가기](https://your-streamlit-app.streamlit.app)  
+👉 [Streamlit Cloud 앱 바로가기]([https://your-streamlit-app.streamlit.app](https://simiproject01.streamlit.app/))  
 
 ---
 
