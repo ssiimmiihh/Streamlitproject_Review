@@ -23,7 +23,6 @@
 ## 🚀 배포 링크
 
 👉 [Streamlit Cloud 앱 바로가기](https://your-streamlit-app.streamlit.app)  
-※ 링크는 배포 후 실제 URL로 대체하세요.
 
 ---
 
