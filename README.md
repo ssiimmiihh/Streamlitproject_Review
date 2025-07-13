@@ -8,21 +8,19 @@
 
 -------
 <br>
-
 ## 🔍 주요 기능 1
-
+<br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/12285e2a-bcde-4c7a-b9d8-bce536fd45c9" />
-
+<br>
 - 네이버 블로그 검색 API를 활용해 제품명 관련 리뷰 수집
 - 광고성 콘텐츠 자동 식별 및 제외
 
 -------
 <br>
-
 ## 🔍 주요 기능 2
-
+<br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cd0db264-7d16-4641-8376-4eea59c738d8" />
-
+<br>
 - **실제 사용자 중심의 긍정/부정 의견 요약**
 - GPT-4o-mini 모델 기반 리뷰 분석 및 요약
 - **데이터베이스 저장 및 재분석 기능**
