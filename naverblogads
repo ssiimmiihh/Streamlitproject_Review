@@ -12,7 +12,7 @@ from openai import OpenAI
 # 환경 변수 설정 (LangSmith는 유지)
 os.environ["LANGSMITH_TRACING"] = "true"
 os.environ["LANGSMITH_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGSMITH_API_KEY"] = "ㅇㅇㅇ"  # 발급받은 LangSmith 키
+os.environ["LANGSMITH_API_KEY"] = "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"  # 발급받은 LangSmith 키
 os.environ["LANGSMITH_PROJECT"] = "naver_shopping_ai"
 
 # Streamlit Secrets에서 API 키 가져오기
