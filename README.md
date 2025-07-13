@@ -45,9 +45,5 @@
 - OpenAI GPT (GPT-4o-mini)
 - Naver Search API
 - SQLite
-- LangSmith (선택적으로 추적)
-
----
-
-## 📂 프로젝트 구조
+- LangSmith (선택적 추적)
 
