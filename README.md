@@ -10,7 +10,9 @@
 👉 [Streamlit Cloud 앱 바로가기](https://simiproject01.streamlit.app/) 
 
 <br>
+
 -------
+
 <br>
 
 ## 🔍 주요 기능 1
