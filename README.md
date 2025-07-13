@@ -6,10 +6,11 @@ st.markdown("""<div style="text-align: center; font-size: 20px; font-weight: nor
 </div>""", unsafe_allow_html=True)
 
 
+st.markdown("""
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Streamlit-orange?style=flat&logo=streamlit" alt="Streamlit Badge"/>
-  <img src="https://img.shields.io/badge/AI-OpenAI%20GPT-blue?logo=openai" alt="OpenAI Badge"/>
+  <img src="이미지 URL" alt="설명" width="800" height="400" />
 </p>
+""", unsafe_allow_html=True)
 
 ---
 
