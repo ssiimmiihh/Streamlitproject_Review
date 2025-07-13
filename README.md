@@ -8,6 +8,7 @@
 
 -------
 <br>
+
 ## 🔍 주요 기능 1
 <br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/12285e2a-bcde-4c7a-b9d8-bce536fd45c9" />
@@ -17,6 +18,7 @@
 
 -------
 <br>
+
 ## 🔍 주요 기능 2
 <br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cd0db264-7d16-4641-8376-4eea59c738d8" />
