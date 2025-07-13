@@ -9,6 +9,11 @@
 
 ---
 
+<img width="1169" height="619" alt="image" src="https://github.com/user-attachments/assets/12285e2a-bcde-4c7a-b9d8-bce536fd45c9" />
+
+---
+
+
 ## 🔍 주요 기능
 
 - **네이버 블로그 검색 API**를 활용해 제품명 관련 리뷰 수집
