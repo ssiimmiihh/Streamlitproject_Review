@@ -5,7 +5,7 @@
 광고성 콘텐츠를 필터링한 후 실제 사용자 중심의 긍정/부정 의견을 ChatGPT를 통해 분석하는 서비스입니다.
 </p>
 
-👉 [Streamlit Cloud 앱 바로가기](https://simiproject01.streamlit.app/) 
+👉 [Streamlit 바로가기](https://simiproject01.streamlit.app/) 
 
 <br>
 
